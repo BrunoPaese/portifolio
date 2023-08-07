@@ -1,7 +1,7 @@
 # Portfólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![print_portifolio](https://github.com/BrunoPaese/portifolio/assets/122990921/cde0939b-8685-47d1-8788-36611b760579)
 
 ## Ferramentas utilizadas:
 
