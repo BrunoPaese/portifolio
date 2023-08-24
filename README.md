@@ -1,4 +1,4 @@
-# Portfólio 
+# Portifólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
 ![print_portifolio](https://github.com/BrunoPaese/portifolio/assets/122990921/cde0939b-8685-47d1-8788-36611b760579)
